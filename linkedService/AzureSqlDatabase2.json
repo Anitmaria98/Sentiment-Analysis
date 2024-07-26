@@ -6,7 +6,7 @@
 		"type": "AzureSqlDatabase",
 		"typeProperties": {
 			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=sentiserver.database.windows.net;initial catalog=sentiDB;user id=sentiserver",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDlFRURFNENELUQxNUUtNDQ5RS04ODg0LTYyMTZDRTYyODE4RV8yZDRkOWMxMy05YWY5LTQyMTgtODRjNC00M2MyZTAxZjFkOTMiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDlFRURFNENELUQxNUUtNDQ5RS04ODg0LTYyMTZDRTYyODE4RV9mOWM2ZmFjOS01ZjA1LTQwY2MtYTQyNS1mNzAwYzU0ZDRhYzAiDQp9"
 		}
 	}
 }
