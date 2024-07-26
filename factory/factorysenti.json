@@ -1,0 +1,9 @@
+{
+	"name": "factorysenti",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "085f7c1a-eaab-41b3-9375-b820616e9c36",
+		"tenantId": "da9a94b6-4681-49bc-bd7c-bab9eac0ad3c"
+	}
+}
